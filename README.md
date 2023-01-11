@@ -10,7 +10,7 @@ Computed state of quadrotor using the corner extraction from April Tags.
 <p align = 'center'><img src ='assets/corner_extraction.jpg' width="1000" height="600" ></p> 
 
 ## Part 2
-Perfomed Extended Kalman Filter using measurement provided by VICON in the form of twist(velocity).
+State estimation of quadrotor using optical flow using ORB and KLT tracker.
 
 ### Results
 <p align = 'center'><img src ='assets/optical_flow_RANSAC.jpg' width="1000" height="600" ></p> 
