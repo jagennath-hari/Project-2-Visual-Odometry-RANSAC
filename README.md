@@ -10,7 +10,7 @@ Computed state of quadrotor using the corner extraction from April Tags.
 <p align = 'center'><img src ='assets/corner_extraction.jpg' width="1000" height="600" ></p> 
 
 ## Part 2
-State estimation of quadrotor using optical flow using ORB and KLT tracker.
+State estimation of quadrotor using optical flow using ORB and KLT tracker, additional step of outlier removal using RANSAC.
 
 ### Results
 <p align = 'center'><img src ='assets/optical_flow_RANSAC.jpg' width="1000" height="600" ></p> 
